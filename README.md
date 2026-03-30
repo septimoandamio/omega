@@ -15,3 +15,4 @@ Fase 0 — Construcción de fundamentos técnicos.
 ## Arquitecto
 Séptimo — Ciudad de México, 2026
 El artefacto en donde se lleva la bitacora sera añadida en breve. Anselmo me está mostrando el paso a paso. 
+prueba 1 
